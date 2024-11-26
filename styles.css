@@ -29,3 +29,11 @@
 .discord-section .btn:hover {
     background: #3c4773;
 }
+
+/* Encabezado */
+header .logo {
+    width: 60px; /* Tamaño reducido del logo */
+    height: auto; /* Mantiene la proporción original */
+    border-radius: 10px;
+}
+
